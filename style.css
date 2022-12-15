@@ -1,0 +1,117 @@
+.parent{
+    /* width: 50vw; */
+    width:80%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+img{
+    min-height: 214px;
+}
+/* body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom right, #E3F0FF, #FAFCFF);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+  
+.Cart-Container{
+    width: 70%;
+    height: 85%;
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0px 25px 40px #0e4d7a33;
+   }
+
+.Header{
+    margin: auto;
+    width: 90%;
+    height: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   }
+
+.Heading{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    color: #2F3841;
+   }
+
+.Remove{
+    font-size: 14px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    color: #E44C4C;
+    cursor: pointer;
+    border-bottom: 1px solid #E44C4C;
+   }
+
+img{
+    width:150px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+
+   }
+
+.Cart-Items{
+    margin: auto;
+    width: 90%;
+    height: 30%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   }
+
+.image-box{
+    width: 25%;
+    height: 10%;
+    text-align: center;
+    align:center;
+    display: flex;
+   }
+
+.title{
+    padding-top: 5px;
+    line-height: 10px;
+    font-size: 32px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    color: #202020;
+   }
+
+.counter{
+    width: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   }
+
+.btn{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #d9d9d9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    color: #202020;
+    cursor: pointer;
+   }
+
+.count{
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    color: #202020;
+   }
+
+   */
